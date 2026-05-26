@@ -1,5 +1,5 @@
 <div>
-  <h3>Hi, I'm Arshad Malik </h1>
+  <h3>Hi, I'm Arshad Malik 👋 </h1>
   <p><b>Computer Science Engineering Student</b></p>
   <p>Turning caffeine into code, optimizing algorithms, and building impactful software.</p>
 </div>
