@@ -32,16 +32,6 @@ As a CSE student, I am deeply passionate about competitive programming, open-sou
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 Coding Activity & Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/arshad_malik?theme=dark" alt="LeetCode Stats" width="48%" />
-</div>
-</div>
-
-<br>
-
 <div align="center">
   <i>Let's connect and build something awesome together!</i>
 </div>
