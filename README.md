@@ -1,13 +1,10 @@
-<div align="center">
-  <h1>Hi, I'm Arshad Malik 👋</h1>
+<div>
+  <h3>Hi, I'm Arshad Malik 👋</h1>
   <p><b>Computer Science Engineering Student</b></p>
   <p>Turning caffeine into code, optimizing algorithms, and building impactful software.</p>
 </div>
-
 ---
-
 ### 👨‍💻 About Me
-
 As a CSE student, I am deeply passionate about competitive programming, open-source software, and building practical applications. I love tackling complex algorithmic challenges and collaborating with the developer community to build tools that make a difference. 
 
 - 🏆 **Competitive Programming:** Regularly solving problems and participating in contests 
