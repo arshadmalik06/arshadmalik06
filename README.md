@@ -36,7 +36,9 @@ As a CSE student, I am deeply passionate about competitive programming, open-sou
 ### 📊 Coding Activity & Stats
 
 <div align="center">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arshad_malik?theme=dark&font=Baloo_2)](https://leetcode.com/arshad_malik)
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/arshad_malik?theme=dark" alt="LeetCode Stats" width="48%" />
+</div>
 </div>
 
 <br>
